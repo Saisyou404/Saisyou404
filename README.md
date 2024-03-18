@@ -14,8 +14,8 @@
 
 🤖 I love learning about and making machine learning systems.\
 💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+🤝 لا يوجد شيء اسمه فشل في الحياة، هناك فقط نجاح وفشل. لا تستسلم.\
+🌟 أحب تعلم اللغة العربية لأن اللغة العربية هي لغة الآخرة
 ###
 
 ### Github Statistic
