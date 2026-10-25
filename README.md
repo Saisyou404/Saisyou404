@@ -94,7 +94,6 @@
 
 > 🤝 لا يوجد شيء اسمه فشل في الحياة، هناك فقط نجاح وفشل. لا تستسلم.
 >
-> 🌟 أحب تعلم اللغة العربية لأن اللغة العربية هي لغة الآخرة
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:2c5364,100:4ca1af&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Thanks for visiting!" />
