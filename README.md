@@ -1,24 +1,45 @@
-<h1 align="center"> Hey, I'm Bayu! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
+<h1 align="center">Hey, I'm Bayu! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <img alt["c13e7f371b14f93e91808200631b8a81"
-  src="https://github.com/Saisyou404/Saisyou404/assets/163853740/417393d0-5a0f-4755-a5f7-cf9dd42ae763" />
+  <img alt="Hello animation" src="https://github.com/Saisyou404/Saisyou404/assets/163853740/417393d0-5a0f-4755-a5f7-cf9dd42ae763" />
 </p>
 
-###
+🚀 **Risky Bayu Septyanda** – Web Developer (Laravel · Node.js · MySQL)
 
-<h2 align="center">About Me</h2>
+- 🎓 Informatics graduate, Universitas AKPRIND Indonesia
+- 💻 Building web applications with Laravel and Node.js/Express
+- 🏭 Practicing on inventory & warehouse management system projects
+- 📚 Currently learning React & Next.js
+- 🌍 Based in Yogyakarta, Indonesia
+- 🔥 Always learning & improving!
 
-###
+[![RGB Flashing Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 لا يوجد شيء اسمه فشل في الحياة، هناك فقط نجاح وفشل. لا تستسلم.\
-🌟 أحب تعلم اللغة العربية لأن اللغة العربية هي لغة الآخرة
-###
+## 🎞️ Tech Stack
 
-### Github Statistic
+#### 💻 Front-end
+
+[![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+#### ⚙️ Back-end
+
+[![Back-end Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)](https://skillicons.dev)
+
+#### 📱 Mobile
+
+[![Mobile Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+
+#### 🗄️ Database
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+#### 🧰 Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+
+* * *
+
+## 📊 GitHub Statistic
 
 <p align="left">
 <a href="https://github.com/Saisyou404">
@@ -26,44 +47,43 @@
 </a>
 </p>
 
-###
+* * *
 
-<h2 align="center">Techs I Use</h2>
+## 📂 Featured Projects
 
-###
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer)](https://capsule-render.vercel.app)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
-</div>
+## 🌐 Web Projects
 
-###
+| Name | Description | Tech | Type |
+|------|-------------|------|------|
+| [Kasir](https://github.com/Saisyou404/Kasir) | GANTI: deskripsi singkat fitur aplikasi kasir (transaksi, produk, laporan, dll). | Laravel, Blade | Public |
+| [QRIS Kasir](https://github.com/Saisyou404/qris-kasir) | GANTI: deskripsi singkat, misalnya pembayaran QRIS pada sistem kasir. | GANTI | Public |
+| [Banina Project](https://github.com/Saisyou404/BaninaProjek) | Freelance web project for Banina Store. GANTI: sebutkan fitur utama yang kamu kerjakan. | Laravel, MySQL | Public |
+| Inventory Expiry Reminder | Warehouse stock expiry monitoring with staged email reminders (H-30, H-15, H-1, expired), Excel import, and admin dashboard. *(segera di-upload)* | Node.js, Express, MySQL, EJS, AdminLTE | In Progress |
+| Warehouse Management System | Spare-part warehouse system (case study project). *(segera di-upload)* | GANTI | In Progress |
 
-<h2 align="center">Find Me</h2>
+* * *
 
-###
+## 📱 Mobile Projects
 
+| Name | Description | Tech | Type |
+|------|-------------|------|------|
+| [PlantIt](https://github.com/Saisyou404/PlantIt) | GANTI: deskripsi singkat aplikasi PlantIt. | Kotlin, Android SDK | Public |
 
+* * *
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=GANTI_LINK_LINKEDIN)](GANTI_LINK_LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:GANTI_EMAIL)](mailto:GANTI_EMAIL)
 [![Instagram Badge](https://img.shields.io/badge/-bayu_s.f23-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bayu_s.f23/)](https://instagram.com/bayu_s.f23)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/6sGZHxfOFT47wpnpnWhMzo?si=c95dfa2197164046)
 
+* * *
 
+🤝 لا يوجد شيء اسمه فشل في الحياة، هناك فقط نجاح وفشل. لا تستسلم.\
+🌟 أحب تعلم اللغة العربية لأن اللغة العربية هي لغة الآخرة
 
-###
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://capsule-render.vercel.app)
 
-<img align="left" height="200" src="https://github.com/Saisyou404/Saisyou404/blob/main/love.gif"  />
-
-###
+✨ Thanks for visiting my profile ✨
