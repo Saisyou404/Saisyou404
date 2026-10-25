@@ -51,17 +51,18 @@
 
 ## 📂 Featured Projects
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer)](https://capsule-render.vercel.app)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=70&section=header&text=Things%20I've%20Built&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Things I've Built" />
+</p>
 
 ## 🌐 Web Projects
 
 | Name | Description | Tech | Type |
 |------|-------------|------|------|
-| [Kasir](https://github.com/Saisyou404/Kasir) | GANTI: deskripsi singkat fitur aplikasi kasir (transaksi, produk, laporan, dll). | Laravel, Blade | Public |
-| [QRIS Kasir](https://github.com/Saisyou404/qris-kasir) | GANTI: deskripsi singkat, misalnya pembayaran QRIS pada sistem kasir. | GANTI | Public |
-| [Banina Project](https://github.com/Saisyou404/BaninaProjek) | Freelance web project for Banina Store. GANTI: sebutkan fitur utama yang kamu kerjakan. | Laravel, MySQL | Public |
-| Inventory Expiry Reminder | Warehouse stock expiry monitoring with staged email reminders (H-30, H-15, H-1, expired), Excel import, and admin dashboard. *(segera di-upload)* | Node.js, Express, MySQL, EJS, AdminLTE | In Progress |
-| Warehouse Management System | Spare-part warehouse system (case study project). *(segera di-upload)* | GANTI | In Progress |
+| [Kasir](https://github.com/Saisyou404/Kasir) | Web-based point-of-sale (cashier) application for recording sales transactions, built with Laravel and Blade templates. | Laravel, Blade | Public |
+| [QRIS Kasir](https://github.com/Saisyou404/qris-kasir) | Cashier application with QRIS payment support for cashless transactions. | Web Application | Public |
+| [Banina Project](https://github.com/Saisyou404/BaninaProjek) | Freelance team project for Banina Store, developing a web application with Laravel and MySQL. | Laravel, PHP, MySQL | Public |
+| Inventory Expiry Reminder | Warehouse stock expiry monitoring system with staged email reminders (H-30, H-15, H-1, and expired), Excel import, and an admin dashboard. | Node.js, Express, MySQL, EJS, AdminLTE | In Progress |
 
 * * *
 
@@ -69,14 +70,13 @@
 
 | Name | Description | Tech | Type |
 |------|-------------|------|------|
-| [PlantIt](https://github.com/Saisyou404/PlantIt) | GANTI: deskripsi singkat aplikasi PlantIt. | Kotlin, Android SDK | Public |
+| [PlantIt](https://github.com/Saisyou404/PlantIt) | Android mobile application with a plant theme, built with Kotlin. | Kotlin, Android SDK | Public |
 
 * * *
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=GANTI_LINK_LINKEDIN)](GANTI_LINK_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:GANTI_EMAIL)](mailto:GANTI_EMAIL)
+[![Email](https://img.shields.io/badge/-bayuyue111@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bayuyue111@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-bayu_s.f23-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bayu_s.f23/)](https://instagram.com/bayu_s.f23)
 
 * * *
@@ -84,6 +84,6 @@
 🤝 لا يوجد شيء اسمه فشل في الحياة، هناك فقط نجاح وفشل. لا تستسلم.\
 🌟 أحب تعلم اللغة العربية لأن اللغة العربية هي لغة الآخرة
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://capsule-render.vercel.app)
-
-✨ Thanks for visiting my profile ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Thanks for visiting!" />
+</p>
